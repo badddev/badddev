@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/852621209215828018.png" />
+    <img src="https://discord.c99.nl/widget/theme-4/852621209215828018.png" />
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/badddev?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=badddev&show_icons=true&custom_title=badddev%20Github%20Stats&theme=midnight-purple" alt="Lennart Statistics." />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badddev&layout=compact&theme=midnight-purple" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api?username=badddev&show_icons=true&custom_title=badddev%20Github%20Stats&theme=dark" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badddev&layout=compact&theme=dark" alt="Lennart Statistics." />
 
 </p>
 <hr>
