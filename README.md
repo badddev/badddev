@@ -1,3 +1,5 @@
+<p align="center">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=badddev&show_icons=true&custom_title=badddev%20Github%20Stats&theme=dark" alt="Lennart Statistics." />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badddev&layout=compact&theme=dark" alt="Lennart Statistics." />
 
