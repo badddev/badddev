@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="" />
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/github/followers/badddev?label=Follow&style=social" alt="github followers" /><br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=badddev&show_icons=true&custom_title=badddev%20Github%20Stats&theme=dark" alt="Lennart Statistics." />
